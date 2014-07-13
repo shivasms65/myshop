@@ -1,0 +1,2 @@
+Devise.secret_key = "602a4da851753f499c671719c2c7889a5c7115bf035cfdb4f26a78099d4247bb211244f04cd659bfbdd438445014ace17554"
+I18n.enforce_available_locales = false
